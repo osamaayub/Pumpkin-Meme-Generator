@@ -2,6 +2,9 @@ html, body {
     margin: 0;
     font-family: 'Karla', sans-serif;
 }
+*{
+    box-sizing: border-box;
+}
 
 /*typography*/
 
@@ -29,7 +32,7 @@ h3{
 /* layout */
 
 header{
-    background-color: #67595E;
+    background-color: #65ec4b;
 }
 
 .header-inner{
